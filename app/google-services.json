@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612951625158",
+    "project_id": "vidus-a52f8",
+    "storage_bucket": "vidus-a52f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612951625158:android:1fe1e60110ab66a46776c7",
+        "android_client_info": {
+          "package_name": "com.gaurav.vidus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612951625158-1bml45dt4kei8vjtrl22eeq2kv3qqjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhhQPHNbUINO5OR7WF9EeAr5bDkRUtJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612951625158-1bml45dt4kei8vjtrl22eeq2kv3qqjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
